@@ -6,9 +6,10 @@ public enum BlockType
 {
     Nothing,
     Air,
-    Grass_Dirt,
+    GrassDirt,
     Dirt,
-    Grass_Stone,
+    Stone,
+    GrassStone,
     TreeTrunk,
     TreeLeavesTransparent,
     TreeLeavesSolid,
